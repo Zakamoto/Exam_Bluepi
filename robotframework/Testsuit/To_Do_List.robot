@@ -44,6 +44,8 @@ TC_005 Delete Task On Page To Do Tasks
     to_do_list_to_do_tasks_keywords.Any Task Should Not Visible
     to_do_list_keywords.Click Menu Completed
     to_do_list_completed_keywords.Any Task Should Not Visible
+    to_do_list_keywords.Click Menu To Do Tasks
+    to_do_list_to_do_tasks_keywords.Any Task Should Not Visible
 
 TC_006 Create Multi Tasks And Complete Every Tasks
     to_do_list_features.Create Multi Tasks        ${TC_006_Tasks_List}
